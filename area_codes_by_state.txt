@@ -1,6 +1,6 @@
 Area code	State	State code
 201	New Jersey	NJ
-202	"Washington,DC"	DC
+202	"Washington, DC"	DC
 203	Connecticut	CT
 205	Alabama	AL
 206	Washington	WA
